@@ -1,0 +1,17 @@
+clonar um repositório existente
+$ git clone ssh://usuario@domain.com/repo.git
+criar um novo repositório local
+$ git init
+remover a inicialização git
+estar no pasta em que quer parar o versionamento e dar o comando
+$ rm -r .git
+faz uma branch
+$ git branch Nome_Sobrenome
+trocar de branch (switched)
+$ git checkout Nome_Sobrenome
+adiciona arquivo na fila
+$ git add.
+sobe o arquivo para o github
+$ git push origin Arquivo
+adiciona um comentário ao commit
+$ git commit -m "comentário"
